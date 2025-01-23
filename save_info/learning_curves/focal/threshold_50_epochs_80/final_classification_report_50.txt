@@ -1,0 +1,9 @@
+Classification Report with Best Model:
+              precision    recall  f1-score   support
+
+  Non-severe     0.9635    0.7522    0.8448      1578
+      Severe     0.0417    0.2742    0.0723        62
+
+    accuracy                         0.7341      1640
+   macro avg     0.5026    0.5132    0.4586      1640
+weighted avg     0.9286    0.7341    0.8156      1640
